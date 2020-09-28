@@ -1,16 +1,7 @@
 """print("hello h&m~") #   字符串
 print(123)
 print(1.23)
-print(True) #   布尔值
-print(())   #   元组
-print([])   #   数组
-print({})   #   字典
-'''
-床前明月光
-疑是地上霜
-'''
-print("hh",2333)
-print("hhh"+"xixixi")
+
 print("hh"*100)"""
 
 # a=float(input('请输入：'))
